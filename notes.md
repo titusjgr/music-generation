@@ -10,6 +10,7 @@
 * demo 開跑
 * 技術介紹
 https://arxiv.org/pdf/1612.01010.pdf
+https://arxiv.org/abs/1903.07227
   * 音樂的本質(2)
   * midi(2)
   * 機器學習(3)
