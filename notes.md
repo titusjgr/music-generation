@@ -1,4 +1,5 @@
-# 音樂生成20
+# 音樂生成
+20 分鐘
 ## 我想傳達
 * 現在的發展
 * 怎麼玩
@@ -27,7 +28,7 @@ https://arxiv.org/abs/1903.07227
 ### ai 作曲
 和聲：[bach doodle 3/21](https://www.google.com/doodles/celebrating-johann-sebastian-bach)，選幾個音符，給bach風格的合聲<br>
 例子，開場時撥放的曲子<br>
-有50%的人把deepbach的曲子認成是bach的[mit tech review-Deep-Learning Machine Listens to Bach, Then Writes Its Own Music in the Same Style](https://www.technologyreview.com/s/603137/deep-learning-machine-listens-to-bach-then-writes-its-own-music-in-the-same-style/)，用了352首眾讚歌(chorale)來學習曲風
+有50%的人把deepbach的曲子認成是bach的[mit tech review-Deep-Learning Machine Listens to Bach, Then Writes Its Own Music in the Same Style](https://www.technologyreview.com/s/603137/deep-learning-machine-listens-to-bach-then-writes-its-own-music-in-the-same-style/)，用了352首聖詠(chorale)來學習曲風
 ## 技術介紹
 ### 音樂元素
 wiki
