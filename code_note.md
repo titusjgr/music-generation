@@ -15,3 +15,6 @@ for file in glob.glob('./midi_songs/*.mid'):
   notes_to_parse = instrument.partitionByInstrument(midi).parts[0].recurse()
   for element in notes_to_parse:
     ...
+
+## posts
+http://christinemcleavey.com/clara-a-neural-net-music-generator/
