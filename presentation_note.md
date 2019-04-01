@@ -22,7 +22,7 @@ https://arxiv.org/abs/1903.07227
 ---
 
 ## 背景
-開始先撥放aiva的[genesis](https://soundcloud.com/user-95265362/sets/genesis)
+開始先撥放deepbach
 ### 作曲
 音樂創作可以指一首原創樂曲、樂曲的結構或創作新音樂作品的過程。狹義的音樂創作者稱為作曲家，廣義上則包括作詞家與編曲家。
 ### ai 作曲
