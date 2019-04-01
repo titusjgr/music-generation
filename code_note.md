@@ -4,6 +4,9 @@
 rnn input shape = (num_inputs, timesteps, input_dim)
 LSTM(input_shape=(timesteps, input_dim))
 
+## fastai
+或許比keras好用，只要把midi正確的轉換成text，然後就可以用內建model
+
 ## Music21
 ### element attributes
 universal: offset
