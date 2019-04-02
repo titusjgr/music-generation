@@ -1,9 +1,10 @@
 # Some Note-worthy Problems
 ## Keras
 ### shape problems
+``` python
 rnn input shape = (num_inputs, timesteps, input_dim)
 LSTM(input_shape=(timesteps, input_dim))
-
+```
 ## fastai
 或許比keras好用，只要把midi正確的轉換成text，然後就可以用內建model
 
@@ -13,12 +14,13 @@ universal: offset
 note: note
 chord: notes
 ### extract
+```python
 for file in glob.glob('./midi_songs/*.mid'):
   midi = converter.parse(file)
   notes_to_parse = instrument.partitionByInstrument(midi).parts[0].recurse()
   for element in notes_to_parse:
     ...
-
+```
 ## posts
 http://christinemcleavey.com/clara-a-neural-net-music-generator/
 
