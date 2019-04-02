@@ -25,3 +25,4 @@ for file in glob.glob('./midi_songs/*.mid'):
 http://christinemcleavey.com/clara-a-neural-net-music-generator/
 
 表示方法：把midi轉成text檔案，用note的開始(以12為例)和結束(12end)來標示，所有音都沒有就用(wait)
+把開頭塞進list之後紀錄結束時間，用dict把每個結束時間當作key，每當offset到了就把全部end加上
